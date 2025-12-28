@@ -2,9 +2,9 @@
 <h3 align="center">Computer Science Student | Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aayush-kc-9970a62b2/">LinkedIn</a> •
   <a href="https://your-portfolio.com">Portfolio</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="ayushkc25@gmail.com">Email</a>
 </p>
 
 ---
