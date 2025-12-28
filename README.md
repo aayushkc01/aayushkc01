@@ -10,10 +10,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 CS student passionate about software engineering & problem solving  
-- 💻 I build full-stack web applications and backend systems  
-- 🌱 Currently learning: Data Structures, System Design, and Cloud  
-- 🎯 Goal: Become a high-impact software engineer  
+- 🎓 Computer Science student obsessed with understanding how software works under the hood  
+- 💻 I build full-stack products and backend systems that are engineered, not just coded  
+- 🌱 Currently sharpening my skills in Data Structures, System Design, and Cloud infrastructure  
+- 🎯 My mission: build software that scales, lasts, and makes a real impact
+engineer  
 
 ---
 
