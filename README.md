@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aayush KC</h1>
+<h3 align="center">Computer Science Student | Software Engineer | Full Stack Developer</h3>
 
-<!--
-**aayushkc01/aayushkc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://your-portfolio.com">Portfolio</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 CS student passionate about software engineering & problem solving  
+- 💻 I build full-stack web applications and backend systems  
+- 🌱 Currently learning: Data Structures, System Design, and Cloud  
+- 🎯 Goal: Become a high-impact software engineer  
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python, JavaScript, C++, Java  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, Docker, Linux
+
+---
+
+### 📌 Featured Projects
+| Project | Description | Tech |
+|--------|------------|------|
+| Web Portfolio | Personal website with resume | HTML, CSS, JS |
+| Task Manager | Full stack CRUD app | MERN |
+| File System Tool | Linux ext2 reader | C++ |
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
