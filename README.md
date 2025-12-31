@@ -1,5 +1,5 @@
-![image](https://<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d98cce7-ff38-44ee-b163-b5588fdbb51c" />
-/....png)
+(https://<img width="900" height="980" alt="image" src="https://github.com/user-attachments/assets/7d98cce7-ff38-44ee-b163-b5588fdbb51c" />
+
 
 
 <h1 align="center">Hi 👋, I'm Aayush KC</h1>
