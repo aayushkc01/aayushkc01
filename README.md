@@ -32,7 +32,7 @@ engineer
 |--------|------------|------|
 | Web Portfolio | Personal website with resume | HTML, CSS, JS |
 | Task Manager | Full stack CRUD app | MERN |
-| File System Tool | Linux ext2 reader | C++ |
+| AI Stock Analysis Assistant |  | Python |
 
 ---
 
