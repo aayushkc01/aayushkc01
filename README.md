@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-kc-9970a62b2/">LinkedIn</a> •
-  <a href="https://aayushkc25.netlify.app/)">Portfolio</a> •
+  <a href="https://aayushkc25.netlify.app/">Portfolio</a> •
   <a href="ayushkc25@gmail.com">Email</a>
 </p>
 
