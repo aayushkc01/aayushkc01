@@ -35,7 +35,7 @@ engineer
 | Project | Description | Tech |
 |--------|------------|------|
 | Web Portfolio | Personal website with resume | HTML, CSS, JS |
-| Task Manager | Full stack CRUD app | MERN |
+| Financial-Dashboard |Interactive financial dashboard  | Python |
 | AI Stock Analysis Assistant |  | Python |
 
 ---
