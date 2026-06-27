@@ -54,4 +54,4 @@
 
 ### 📫 Get in touch
 
-📧 aayushkc562@gmail.com | 📞 (330) 294-1450 | 💼 [LinkedIn]([https://www.linkedin.com/in/aayushkc](https://www.linkedin.com/in/aayush-kc-9970a62b2/))
+📧 aayushkc562@gmail.com | 📞 (330) 294-1450 | 💼 [LinkedIn]([https://www.linkedin.com/in/aayushkc](https://www.linkedin.com/in/aayush-kc-9970a62b2//)
