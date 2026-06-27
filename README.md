@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Developer | Java • Spring Boot • Microservices • AWS</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayushkc">LinkedIn</a> •
+  <a href=https://www.linkedin.com/in/aayush-kc-9970a62b2/>LinkedIn</a> •
   <a href="mailto:aayushkc562@gmail.com">Email</a>
 </p>
 
@@ -54,4 +54,4 @@
 
 ### 📫 Get in touch
 
-📧 aayushkc562@gmail.com | 📞 (330) 294-1450 | 💼 [LinkedIn](https://www.linkedin.com/in/aayushkc)
+📧 aayushkc562@gmail.com | 📞 (330) 294-1450 | 💼 [LinkedIn]([https://www.linkedin.com/in/aayushkc](https://www.linkedin.com/in/aayush-kc-9970a62b2/))
